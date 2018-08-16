@@ -15,3 +15,5 @@ A change from working-a
 A change from working-b
 
 Now we know!
+
+The merge commit remained after the squash and merge.

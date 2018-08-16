@@ -11,4 +11,4 @@ Back into master?
 Does the merge commit also get squashed
 Leaving you with just the one tidy squash commit?
 
-Let's find out!
+A change from working-a
